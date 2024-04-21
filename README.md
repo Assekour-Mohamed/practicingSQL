@@ -1,0 +1,2 @@
+# practicingSQL
+sql practicing 
